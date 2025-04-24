@@ -13,6 +13,7 @@ old: {
       cusparselt
       libcublas
       libcufft
+      libcufile
       libcurand
       libcusolver
       libcusparse
